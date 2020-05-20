@@ -1,0 +1,62 @@
+	/*
+  	Flaticon icon font: Flaticon
+  	Creation date: 07/10/2017 19:38
+  	*/
+
+@font-face {
+  font-family: "Flaticon";
+  src: url("../fonts/Flaticon.eot");
+  src: url("../fonts/Flaticond41dd41d.html?#iefix") format("embedded-opentype"),
+       url("../fonts/Flaticon.woff") format("woff"),
+       url("../fonts/Flaticon.ttf") format("truetype"),
+       url("../fonts/Flaticon.svg#Flaticon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "Flaticon";
+    src: url("../fonts/Flaticon.svg#Flaticon") format("svg");
+  }
+}
+
+[class^="flaticon-"]:before, [class*=" flaticon-"]:before,
+[class^="flaticon-"]:after, [class*=" flaticon-"]:after {   
+  font-family: Flaticon;
+font-style: normal;
+
+}
+
+.flaticon-quotes:before { content: "\f100"; }
+.flaticon-play-button:before { content: "\f101"; }
+.flaticon-clear-button:before { content: "\f102"; }
+.flaticon-car:before { content: "\f103"; }
+.flaticon-swimming-pool:before { content: "\f104"; }
+.flaticon-buildings:before { content: "\f105"; }
+.flaticon-map-marker:before { content: "\f106"; }
+.flaticon-technology:before { content: "\f107"; }
+.flaticon-maps-and-flags:before { content: "\f108"; }
+.flaticon-bathtub:before { content: "\f109"; }
+.flaticon-parking:before { content: "\f10a"; }
+.flaticon-ascending-stairs-signal:before { content: "\f10b"; }
+.flaticon-material:before { content: "\f10c"; }
+.flaticon-straight-air:before { content: "\f10d"; }
+.flaticon-sports:before { content: "\f10e"; }
+.flaticon-water:before { content: "\f10f"; }
+.flaticon-squares:before { content: "\f110"; }
+.flaticon-mortgage:before { content: "\f111"; }
+.flaticon-contract:before { content: "\f112"; }
+.flaticon-bath:before { content: "\f113"; }
+.flaticon-vehicle:before { content: "\f114"; }
+.flaticon-bed-1:before { content: "\f115"; }
+.flaticon-bed:before { content: "\f116"; }
+.flaticon-apartment-1:before { content: "\f117"; }
+.flaticon-apartment:before { content: "\f118"; }
+.flaticon-user-shape:before { content: "\f119"; }
+.flaticon-letter:before { content: "\f11a"; }
+.flaticon-interface:before { content: "\f11b"; }
+.flaticon-arrows-1:before { content: "\f11c"; }
+.flaticon-arrows:before { content: "\f11d"; }
+.flaticon-magnifying-glass-browser:before { content: "\f11e"; }
+
